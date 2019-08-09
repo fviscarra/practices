@@ -1,0 +1,17 @@
+section {
+	display: flex;
+
+}
+header {
+	text-align: center;
+	background: #ccc;
+}
+
+.aside {
+ width: 29%;
+ background: red;
+}
+.container {
+	width: 69%;
+	background: blue;
+} 
